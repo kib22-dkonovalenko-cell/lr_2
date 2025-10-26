@@ -1,0 +1,9 @@
+Denis_Konovalenko/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.idea/
+.vscode/
